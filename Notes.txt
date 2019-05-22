@@ -4,4 +4,5 @@
 4. git add index.html or git add *.html or git add . 
 5. git status
 6. git rm --cached index.html
-7. 
+7. git commit -m 'Changed Index'
+8. touch .gitignore
