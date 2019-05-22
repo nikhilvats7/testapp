@@ -8,3 +8,5 @@
 8. touch .gitignore ( and add filename which should not be committed)
 9. git branch mybranch ( to create new branch )
 10. git checkout mybranch ( to swtich to new branch)
+11. git remote ( to see all the added remote repositiries)
+12. git push -u origin master
