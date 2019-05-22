@@ -1,0 +1,7 @@
+1. git init
+2. git config --global user.name 'Nikhil'
+3. git config --global user.email 'emailnkv@gmail.com'
+4. git add index.html or git add *.html or git add . 
+5. git status
+6. git rm --cached index.html
+7. 
