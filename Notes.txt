@@ -5,4 +5,6 @@
 5. git status
 6. git rm --cached index.html
 7. git commit -m 'Changed Index'
-8. touch .gitignore
+8. touch .gitignore ( and add filename which should not be committed)
+9. git branch mybranch ( to create new branch )
+10. git checkout mybranch ( to swtich to new branch)
